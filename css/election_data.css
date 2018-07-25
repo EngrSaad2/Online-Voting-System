@@ -1,0 +1,19 @@
+#img
+{   
+	width:900px;
+	height:400px;
+	float:right;
+	margin-right:140px;
+}
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width:900px;
+	  height:400px;
+	  
+  }
+  # btn btn-block btn-xs btn-primary
+  {
+	  height:500px;
+	  width:12334px;
+  }

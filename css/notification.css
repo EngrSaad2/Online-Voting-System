@@ -1,0 +1,16 @@
+#notzi {    
+    max-width: 600px;
+    margin: 0 auto;
+    top: 100px;
+    left: 0;
+    right: 0;
+    font-weight: bold;    
+    z-index: 1031;
+    text-align: center;
+    position: fixed;
+}
+
+.alert {
+    margin-bottom: 2px;
+    border-radius: 0px;
+}
