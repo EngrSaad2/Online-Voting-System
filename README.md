@@ -1,5 +1,11 @@
 # Online-Voting-System
 
+Developer: <b>SAAD</b> <br>
+Email: saad@triangeltech.com<br>
+LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
+Facebook: https://www.facebook.com/raselhasandurjoy<br>
+Phone: +8801904654712<br>
+
 ## What is an online voting system?
 #### A simple definition:
  
