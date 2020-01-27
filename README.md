@@ -21,4 +21,4 @@ They also protect the integrity of your vote by preventing voters from being abl
  
 Many secure voting platform vendors provide supportive vote consulting services that help organizations design their voting procedures.
  
-These services help organizations save time, stick to best practices, and meet internal requirements and/or external regulations, such as third-party vote administration needs.
+These services help organizations save time, stick to best practices, and meet internal requirements and/or external regulations, such as third-party vote administration needs..
